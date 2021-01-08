@@ -1,5 +1,4 @@
 # Read Instructions carefully before attemption this assignment
-
 # 1) don't rename any function name
 # 2) don't rename any variable name
 # 3) don't remove any #comment 
